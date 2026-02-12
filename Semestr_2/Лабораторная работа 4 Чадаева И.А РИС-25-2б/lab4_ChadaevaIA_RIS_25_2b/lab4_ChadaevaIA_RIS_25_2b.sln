@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lab4_ChadaevaIA_RIS_25_2b", "lab4_ChadaevaIA_RIS_25_2b\lab4_ChadaevaIA_RIS_25_2b.vcxproj", "{68D02B94-1832-430B-BBC5-7C1C00B07A6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68D02B94-1832-430B-BBC5-7C1C00B07A6C}.Debug|x64.ActiveCfg = Debug|x64
+		{68D02B94-1832-430B-BBC5-7C1C00B07A6C}.Debug|x64.Build.0 = Debug|x64
+		{68D02B94-1832-430B-BBC5-7C1C00B07A6C}.Debug|x86.ActiveCfg = Debug|Win32
+		{68D02B94-1832-430B-BBC5-7C1C00B07A6C}.Debug|x86.Build.0 = Debug|Win32
+		{68D02B94-1832-430B-BBC5-7C1C00B07A6C}.Release|x64.ActiveCfg = Release|x64
+		{68D02B94-1832-430B-BBC5-7C1C00B07A6C}.Release|x64.Build.0 = Release|x64
+		{68D02B94-1832-430B-BBC5-7C1C00B07A6C}.Release|x86.ActiveCfg = Release|Win32
+		{68D02B94-1832-430B-BBC5-7C1C00B07A6C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7E59602-1531-4C70-B685-C84AFAB1534D}
+	EndGlobalSection
+EndGlobal
