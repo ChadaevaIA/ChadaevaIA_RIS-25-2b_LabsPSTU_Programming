@@ -1,5 +1,3 @@
-```
-
 #include <iostream>
 #include <clocale>
 
@@ -10,7 +8,7 @@ int main() {
 	setlocale(LC_ALL, "ru");
 	const int n = 10;
 	int A[n];
-	int max, j = 0, S = 0;
+	int max, j = 0, S = 1;
 
 	cout << "Введите массив: ";
 
@@ -44,5 +42,3 @@ int main() {
 
 	return 0;
 }
-
-```
