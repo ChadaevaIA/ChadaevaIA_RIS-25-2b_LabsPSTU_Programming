@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Irina Chadaeva\source\repos\difficult_search\difficult_search\Source.cpp(8,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Irina Chadaeva\source\repos\difficult_search\difficult_search\Source.cpp(9,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Irina Chadaeva\source\repos\difficult_search\difficult_search\Source.cpp(54,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Irina Chadaeva\source\repos\difficult_search\difficult_search\Source.cpp(55,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  difficult_search.vcxproj -> C:\Users\Irina Chadaeva\source\repos\difficult_search\x64\Debug\difficult_search.exe
